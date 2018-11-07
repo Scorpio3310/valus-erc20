@@ -28,7 +28,7 @@ In function "ValusCrowdsale" you can change folowing parameters:
 ```
 
 
- and in function "getValusTokenIssuance" ypu can change price and duration of bonuses
+ and in function "getValusTokenIssuance" you can change price and duration of bonuses
  
  ```shell
   if (_now >= startDay && _now < startDay + 2 days) return _ethSent * 1400; // In first 48h price for 1 VLS is 0.085 USD
